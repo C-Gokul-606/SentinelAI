@@ -1,0 +1,18 @@
+{
+    "project": "SentinelAI",
+    "model": "TF-IDF + Logistic Regression",
+    "task": "Spam / Suspicious Message Detection",
+    "test_accuracy": 0.9730941704035875,
+    "training_samples": 4457,
+    "testing_samples": 1115,
+    "features": [
+        "TF-IDF",
+        "Unigrams",
+        "Bigrams"
+    ],
+    "risk_levels": {
+        "LOW": "< 40%",
+        "MEDIUM": "40% - 74%",
+        "HIGH": ">= 75%"
+    }
+}
