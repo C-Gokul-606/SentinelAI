@@ -9,7 +9,7 @@ It combines **Natural Language Processing (NLP)** with **TF-IDF feature extracti
 
 ## 🚀 Live Demo
 
-👉 **https://sentinelai.streamlit.app/**
+👉 **[https://sentinelai.streamlit.app/](https://sentinelainlp.streamlit.app/)**
 
 ---
 
